@@ -1,6 +1,7 @@
 {
-  "name": "Mod Template",
-  "modId": "ModTemplate",
-  "mixinConfigs": [],
-  "entrypoints": []
+  "name": "Toggle Chat",
+  "modId": "togglechat",
+  "entrypoints": [
+    "me.zircta.togglechat.ToggleChat"
+  ]
 }
